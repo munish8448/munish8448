@@ -1,5 +1,8 @@
+<p align="center">
+  
 ![](https://github.com/munish8448/munish8448/blob/main/_banner.gif)
-
+</p>
+  
 <!---# Hi, I'm Munish Kumar --->
 
 <!---
@@ -28,6 +31,12 @@
 <!---
 munish8448/munish8448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
+links
+https://auto.creavite.co/discord-profile-banners
+https://arturssmirnovs.github.io/github-profile-readme-generator/
+
 --->
 
 

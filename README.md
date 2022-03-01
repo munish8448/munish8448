@@ -1,14 +1,14 @@
 ![](https://github.com/munish8448/munish8448/blob/main/banner.png)
 
 # Hi, I'm Munish Kumar 
-
+![Profile views](https://gpvc.arturio.dev/munish8448)
 
 ## Skills
 
 ## Work
 
 
-![Profile views](https://gpvc.arturio.dev/munish8448)  
+  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munish8448&show_icons=true)  
 

@@ -6,7 +6,7 @@
 <!---# Hi, I'm Munish Kumar --->
 
 
- ![](https://github.com/munish8448/munish8448/blob/main/_banner.gif)
+ 
  ![Profile views](https://gpvc.arturio.dev/munish8448)
 
 

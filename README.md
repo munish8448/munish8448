@@ -6,7 +6,7 @@
 <!---# Hi, I'm Munish Kumar --->
 
 
-![Profile views](https://gpvc.arturio.dev/munish8448)  
+<!-- ![Profile views](https://gpvc.arturio.dev/munish8448)   -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munish8448&show_icons=true)  
 

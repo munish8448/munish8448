@@ -1,7 +1,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munish8448)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
+<p align="right">
   
    
    <img src=https://github.com/munish8448/munish8448/blob/main/_banner.gif>

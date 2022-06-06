@@ -17,7 +17,7 @@
 
   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=munish8448&show_icons=true)  
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=munish8448&show_icons=true)  
 
 
 --->

@@ -45,7 +45,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 --->
 
 <a href="https://youtu.be/a_zHE15w2Uw" autoplay>
- <img src="http://img.youtube.com/vi/a_zHE15w2Uw/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/a_zHE15w2Uw/mqdefault.jpg" alt="Watch the video" width="320" height="180" border="10" />
 </a>
 
 

@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
    <img src=https://github.com/munish8448/munish8448/blob/main/_banner.gif>
 </p>
  

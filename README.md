@@ -11,6 +11,7 @@
 
 # Knowledge
 ![](https://github.com/munish8448/munish8448/blob/main/GIF-230722_204744.gif)
+I am an IDOT!
 
 # Experience
 ![](https://github.com/munish8448/munish8448/blob/main/knowledge.jpg)
